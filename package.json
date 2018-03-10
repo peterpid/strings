@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "strings",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peterpid/template.git"
+    "url": "git+https://github.com/peterpid/strings.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peterpid/template/issues"
+    "url": "https://github.com/peterpid/strings/issues"
   },
-  "homepage": "https://github.com/peterpid/template#readme",
+  "homepage": "https://github.com/peterpid/strings#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
@@ -37,5 +37,6 @@
     "nu-html-checker": "^0.1.0",
     "onchange": "^3.3.0",
     "rimraf": "^2.6.2"
-  }
+  },
+  "dependencies": {}
 }
